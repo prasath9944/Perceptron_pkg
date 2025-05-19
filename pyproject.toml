@@ -29,4 +29,4 @@ Homepage = "https://github.com/prasath/perceptron_pkg"
 Issues = "https://github.com/prasath/perceptron_pkg/issues"
 
 [tool.hatch.build.targets.wheel]
-packages = ["perceptron_pkg"]
+packages = ["src/perceptron_pkg"]
